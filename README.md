@@ -135,6 +135,7 @@ int main() {
 
 
 ## OUTPUT
+
 ![Alt text](exp06.1.png)
 
 # RESULT:
